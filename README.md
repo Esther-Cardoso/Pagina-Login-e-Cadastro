@@ -28,7 +28,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - HTML
 - CSS
 
-<h2 id="autor">Autor<h2>
+
+## Autor
 <a href="https://www.linkedin.com/in/esther-cardoso/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/70102263?v=4" width="200px;" alt=""/>
  <br />
