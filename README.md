@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4E22AQHuthvFh2RtDA/feedshare-shrink_800/0/1639316749826?e=1642636800&v=beta&t=GhbARjpeZ49MOlxnQz_9alH7bxyGdCV6b6MGC2pK2_E">
+  <img src="https://media-exp1.licdn.com/dms/image/C4E22AQHuthvFh2RtDA/feedshare-shrink_800/0/1639316749826?e=1645660800&v=beta&t=hoYnQoVfr9OOdGqOLbiTnHWXNJgo600X3WVI1AHQFR8">
 </p>
 <p align="center">
   <a href="https://esther-cardoso.github.io/Pagina-Login-e-Cadastro/" target="_blank">Clique aqui para abrir o site</a>
